@@ -45,7 +45,7 @@ public class Main {
             System.out.println(cartas.length);
             
         
-        //c = new Array<Carta>();
+        
         int op=0;
         
        while(op!=5){ 
